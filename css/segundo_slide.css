@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: flex-start;
+}
+
+div {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+}

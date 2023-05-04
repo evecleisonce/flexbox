@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div {
+  background-color: blue;
+  width: 400px;
+  height: 300px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
