@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    align-items: center;
+}
+  
+div {
+    background-color: rgb(0, 89, 255);
+    width: 600px;
+    height: 300px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+  
+#div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+#div2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+  
+#div3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+#div4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
